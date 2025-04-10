@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "miproyectoweb", "MiProyectoWeb\miproyectoweb.esproj", "{8CB41B77-9118-47BA-BED3-3E81F4144DD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB41B77-9118-47BA-BED3-3E81F4144DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB41B77-9118-47BA-BED3-3E81F4144DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB41B77-9118-47BA-BED3-3E81F4144DD0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8CB41B77-9118-47BA-BED3-3E81F4144DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB41B77-9118-47BA-BED3-3E81F4144DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB41B77-9118-47BA-BED3-3E81F4144DD0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95DAC852-DDE6-4F2E-BEAA-4E948272E18C}
+	EndGlobalSection
+EndGlobal
