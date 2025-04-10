@@ -56,7 +56,7 @@ npm run dev
 ## 🔐 Datos de acceso 
 Roles disponibles:
 - `usuario`
-- `admin` PARA ENTRAR A ADMIN VIENE CON EMAIL: "Mario@gmail.com" y contraseña "Mario12"
+- `admin` PARA ENTRAR A ADMIN VIENE CON EMAIL: "mario@gmail.com" y contraseña "mario12"
 
 
 ## 📦 Paquetes usados
